@@ -1,0 +1,19 @@
+.deductions-list {
+    margin-bottom: 20px;
+  }
+  
+  .deductions-list h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .deductions-list label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .deductions-list input[type="number"] {
+    width: 70px;
+    margin-left: 10px;
+  }
+  

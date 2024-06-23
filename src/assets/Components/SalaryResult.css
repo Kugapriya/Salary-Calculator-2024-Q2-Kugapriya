@@ -1,0 +1,15 @@
+.salary-result {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+  }
+  
+  .salary-result h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .salary-result div {
+    margin-bottom: 5px;
+  }
+  

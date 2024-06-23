@@ -1,0 +1,19 @@
+.earnings-list {
+    margin-bottom: 20px;
+  }
+  
+  .earnings-list h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .earnings-list label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .earnings-list input[type="number"] {
+    width: 70px;
+    margin-left: 10px;
+  }
+  
